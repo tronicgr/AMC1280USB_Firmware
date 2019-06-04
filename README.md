@@ -6,6 +6,10 @@ Video of Firmware update procedure:
 https://www.youtube.com/watch?v=DWRcoQgQ-GA
 
 
+Restoring default parameters:
+https://www.youtube.com/watch?v=kcJLXDvTAzA
+
+
 
 ### ======= enc_6dof_AMC1280USB_v3.5_rev1c.hex ======= 
 ```
